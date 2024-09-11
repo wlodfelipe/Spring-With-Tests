@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.atividadeTestes1.atividadeTestes1.AtividadeTestes1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.801 s -- in com.atividadeTestes1.atividadeTestes1.AtividadeTestes1ApplicationTests
